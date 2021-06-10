@@ -1,0 +1,174 @@
+#title
+{
+  background-color: #ff4c68;
+  color: #fff;
+}
+body
+{
+  font-family: "Montserrat";
+  text-align: center;
+}
+.heading
+{
+  text-align: left;
+}
+.container-fluid
+{
+  padding: 3% 15% 7%;
+}
+h1,h2,h3
+{
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
+.priceh2
+{
+  font-size: 3rem;
+  line-height: 3.5rem;
+}
+
+.navbar
+{
+  padding-bottom: 5rem;
+}
+.nav-item
+{
+   padding: 0 18px;
+}
+.nav-link
+{
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.downloadbutton
+{
+  margin: 5% 3% 5%;
+}
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right:25%;
+}
+.title-image-container
+{
+  position: relative;
+}
+.smallicon
+{
+  color: #ef8172;
+}
+.smallicon:hover
+{
+  color: #ff4c68;
+}
+#features
+{
+  padding: 5% 10% 5%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.featurebox
+{
+  padding: 8% 3% 8%;
+}
+p
+{
+color: #8f8f8f;
+}
+#testimonials
+{
+  padding:5% 15% 5%;
+  background-color: #ef8172;
+  
+}
+.testimonialhrading
+{
+  font-size: 3rem;
+  line-height: 1.5rem;
+  padding-top: 5%;
+}
+.dog
+{
+  width: 10%;
+  border-radius: 100%;
+  margin:5%;
+}
+#press
+{
+  background-color:#ef8172;
+  padding-bottom: 5%;
+}
+.primg
+{
+  width:15%;
+}
+.card
+{
+  margin: 10px 10px 10px 10px;
+}
+#pricing
+{
+padding:100px;
+}
+/* c1 = card deck */
+.c1
+{
+  padding: 2% 3%;
+}
+/* Media Query */
+@media (max-width: 1028px)
+ {
+   .title-image
+   {
+     position:static;
+     transform: rotate(0);
+   }
+   #title
+   {
+     text-align: center;
+   }
+}
+#cta
+{
+  padding: 7% 15%;
+}
+#footer
+{
+  background-color: #fff;
+
+}
+.socialmedia
+{
+  height: auto;
+  margin:50px 25px ;
+}
+.colored-section
+{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.whitesection
+{
+
+}
+.ctaheading
+{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: bold;
+
+}
+.featurehead
+{
+  font-size: 1.5rem;
+  padding: 1% 5% 5%;
+}
